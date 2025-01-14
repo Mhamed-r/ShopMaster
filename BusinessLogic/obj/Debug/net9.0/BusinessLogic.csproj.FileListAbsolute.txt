@@ -1,0 +1,15 @@
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\bin\Debug\net9.0\BusinessLogic.deps.json
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\bin\Debug\net9.0\BusinessLogic.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\bin\Debug\net9.0\BusinessLogic.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\bin\Debug\net9.0\Dbcontext.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\bin\Debug\net9.0\Dbcontext.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\BusinessLogic.AssemblyInfo.cs
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\Business.CF5D6E35.Up2Date
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\BusinessLogic.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\refint\BusinessLogic.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\BusinessLogic.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\BusinessLogic\obj\Debug\net9.0\ref\BusinessLogic.dll

@@ -1,0 +1,15 @@
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\bin\Debug\net9.0\Login.deps.json
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\bin\Debug\net9.0\Login.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\bin\Debug\net9.0\Login.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\bin\Debug\net9.0\Dbcontext.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\bin\Debug\net9.0\Dbcontext.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.csproj.AssemblyReference.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.AssemblyInfoInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.AssemblyInfo.cs
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.csproj.CoreCompileInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.csproj.Up2Date
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\refint\Login.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\Login.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Login\obj\Debug\net9.0\ref\Login.dll

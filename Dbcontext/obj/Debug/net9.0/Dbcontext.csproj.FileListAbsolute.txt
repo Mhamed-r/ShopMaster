@@ -1,0 +1,12 @@
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\bin\Debug\net9.0\Dbcontext.deps.json
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\bin\Debug\net9.0\Dbcontext.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\bin\Debug\net9.0\Dbcontext.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\Dbcontext.csproj.AssemblyReference.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\Dbcontext.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\Dbcontext.AssemblyInfoInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\Dbcontext.AssemblyInfo.cs
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\Dbcontext.csproj.CoreCompileInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\Dbcontext.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\refint\Dbcontext.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\Dbcontext.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Dbcontext\obj\Debug\net9.0\ref\Dbcontext.dll

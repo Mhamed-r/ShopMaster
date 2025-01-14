@@ -1,0 +1,15 @@
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\bin\Debug\net9.0\Registration.deps.json
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\bin\Debug\net9.0\Registration.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\bin\Debug\net9.0\Registration.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\bin\Debug\net9.0\Dbcontext.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\bin\Debug\net9.0\Dbcontext.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registration.csproj.AssemblyReference.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registration.AssemblyInfoInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registration.AssemblyInfo.cs
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registration.csproj.CoreCompileInputs.cache
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registra.C341AD68.Up2Date
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registration.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\refint\Registration.dll
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\Registration.pdb
+D:\ITI\C#\Labs\WF\ADO.NET Project\ShopMaster\Registration\obj\Debug\net9.0\ref\Registration.dll
